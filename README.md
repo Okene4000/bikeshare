@@ -17,3 +17,10 @@ Udacity
 ### Software tools and Installation
 * Software tool: Python 3.6
 * Libraries: pandas, numpy, time
+* Code editor: Visual Studio code
+
+### Dataset
+The datatset consists of three csv files:
+* chicago.csv
+* new_york_city.csv
+* washington.csv
