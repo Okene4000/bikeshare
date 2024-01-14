@@ -39,7 +39,7 @@ Based on the program code, The program takes the input of city, month and day gi
 #### Total and Average trip durations
 * Total travel time
 * Mean travel time
-####Statistics on bikeshare users
+#### Statistics on bikeshare users
 * Count of user types
 * Count of Gender
 * Earliest, most recent and most common year of birth
