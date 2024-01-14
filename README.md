@@ -25,7 +25,6 @@ The datatset consists of three csv files:
 * chicago.csv
 * new_york_city.csv
 * washington.csv
-This contains all data information relating to Chicago, New York City and Washington regarding bikeshare.
 
 ### Statistics
 Based on the program code, The program takes the input of city, month and day given by the user and prints out the following details:
